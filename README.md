@@ -39,7 +39,7 @@ client.names('#express', function(err, names){
 MIT License
 
 [Version]: https://img.shields.io/npm/v/slate-irc.svg
-[Build Status]: https://travis-ci.org/slate/slate-irc.svg?branch=master
+[Build Status]: https://travis-ci.org/metsjeesus/slate-irc.svg?branch=master
 
 [npm]: https://npmjs.org/package/slate-irc
-[travis]: https://travis-ci.org/slate/slate-irc
+[travis]: https://travis-ci.org/metsjeesus/slate-irc
